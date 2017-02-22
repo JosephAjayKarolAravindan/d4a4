@@ -5,3 +5,8 @@
 ● DFSOutputStream
 ● FSDataInputStream
 ● FSDataOutputStream
+
+Answer:
+
+1.DFSInputStream
+
